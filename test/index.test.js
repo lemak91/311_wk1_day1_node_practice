@@ -51,7 +51,8 @@ describe('Dates module', () => {
       'Tuesday',
       'Wednesday',
       'Thursday',
-      'Friday'
+      'Friday',
+      'Sunday'
     ]
 
     const day = dates.today()
